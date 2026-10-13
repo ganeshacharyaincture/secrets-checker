@@ -1,3 +1,4 @@
 Something basic
 azure_endpoint=https://apa.azureops.microsoft.com/api/billing
 azure_secret=129128368f86asdf9876asdf7868sdf6asdf8
+aws_secret=123878asfisfdh8sdtfd8f68as9df689as6df6as8df6as8df6a087sdf689a6sd8fa
